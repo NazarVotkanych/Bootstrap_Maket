@@ -1,0 +1,11 @@
+@media screen and (max-width: 400px) {
+    .first-screen--right img {
+        width: 100%;
+    }
+    .first-screen--left h1 {
+        font-size: 30px;
+        line-height: 32px;
+
+    }
+}
+
